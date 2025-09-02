@@ -1,0 +1,68 @@
+{
+  "commands": {
+    "welcome": "Welcome to your Habit Awareness Bot! 🤖\n\nThis bot helps you track your progress without judgment.\n\n📊 Commands:\n/help - Show this help message\n/status - Show your current statistics\n/stats - Show detailed habit statistics\n/next - Show next daily reminder time\n/language - Change language\n/zip - Download all bot files as a zip\n\n💬 How to track:\nJust message me things like:\n• \"I did it\"\n• \"Slipped up today\"\n• \"Had the habit again\"\n\nI'll record it and show you your progress! 📈",
+    "help": "Welcome to your Habit Awareness Bot! 🤖\n\nThis bot helps you track your progress without judgment.\n\n📊 Commands:\n/help - Show this help message\n/status - Show your current statistics\n/stats - Show detailed habit statistics\n/next - Show next daily reminder time\n/language - Change language\n/zip - Download all bot files as a zip\n\n💬 How to track:\nJust message me things like:\n• \"I did it\"\n• \"Slipped up today\"\n• \"Had the habit again\"\n\nI'll record it and show you your progress! 📈"
+  },
+  "status": {
+    "title": "📊 Your Habit Statistics:\n\n",
+    "last_entry": "📅 Last entry: {date}\n",
+    "today": "⏰ Today (0 days ago)\n",
+    "yesterday": "⏰ Yesterday (1 day ago)\n",
+    "days_ago": "⏰ {days} days ago\n",
+    "no_entries": "📅 No entries yet\n",
+    "total_entries": "🔢 Total entries: {count}\n\n",
+    "next_reminder": "🤖 Next reminder: {time} {timezone}",
+    "tracking_unavailable": "❌ Habit tracking not available",
+    "error_getting_stats": "❌ Error getting your statistics"
+  },
+  "tracking": {
+    "entry_recorded": "📝 Entry recorded!\n\n",
+    "last_time": "📅 Last time: {date}\n",
+    "was_today": "⏰ That was today\n",
+    "was_yesterday": "⏰ That was yesterday\n",
+    "was_days_ago": "⏰ That was {days} days ago\n",
+    "total_times": "🔢 Total times: {count}\n\n",
+    "awareness_message": "You're aware of your patterns. That's the first step! 💪",
+    "failed_to_record": "❌ Failed to record your entry",
+    "error_recording": "❌ Error recording your entry"
+  },
+  "language": {
+    "select": "🌍 Select your language / اختر لغتك:\n\n🇺🇸 English\n🇸🇦 العربية",
+    "changed_to_english": "✅ Language changed to English",
+    "changed_to_arabic": "✅ Language changed to Arabic",
+    "invalid_choice": "❌ Invalid choice. Please select English or Arabic."
+  },
+  "general": {
+    "test_message": "🧪 This is a test message from your Habit Awareness Bot!",
+    "test_sent": "✅ Test message sent successfully!",
+    "test_failed": "❌ Failed to send test message",
+    "next_reminder": "⏰ Next reminder scheduled for: {time}",
+    "error_next_time": "❌ Error getting next message time",
+    "creating_zip": "📦 Creating zip file with all bot files...",
+    "zip_failed": "❌ Failed to create zip file",
+    "zip_error": "❌ Error creating zip file"
+  },
+  "daily_messages": [
+    "🧠 Today is a fresh start. Notice your patterns without judgment.",
+    "💡 Awareness is the first step toward change. You're already on the right path.",
+    "🌱 Each moment of mindfulness builds stronger habits. Stay present.",
+    "🔍 Pay attention to your triggers today. Knowledge is power.",
+    "🌅 A new day means new opportunities to make conscious choices.",
+    "⚖️ Balance comes from understanding yourself, not perfection.",
+    "🎯 Focus on progress, not perfection. Every step counts.",
+    "🌊 Ride the waves of your emotions without being swept away.",
+    "🔄 Change happens gradually. Trust the process.",
+    "💪 You have the strength to make mindful decisions today.",
+    "🌟 Your awareness is growing stronger each day.",
+    "🧘 Take a moment to breathe and center yourself.",
+    "📈 Small, consistent choices lead to big transformations.",
+    "🌈 Every setback is data, not defeat. Learn and move forward.",
+    "🎪 Life is about balance. Find yours today."
+  ],
+  "awareness_progress": {
+    "new_opportunity": "\n🔄 Remember, today is a new opportunity for awareness.",
+    "one_day": "\n💚 One day of awareness complete.",
+    "few_days": "\n💚 {days} days of awareness. Stay mindful.",
+    "many_days": "\n🌟 {days} days of awareness. You're building strong patterns!"
+  }
+}

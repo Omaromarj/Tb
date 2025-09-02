@@ -1,0 +1,408 @@
+2025-09-02 07:39:20,447 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 07:39:20,448 - __main__ - ERROR - Fatal error: Token must not contain spaces
+2025-09-02 07:42:24,226 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 07:42:24,227 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 07:42:27,791 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 07:42:27,791 - __main__ - INFO - Bot connected successfully
+2025-09-02 07:42:27,791 - scheduler - INFO - Message scheduler started
+2025-09-02 07:42:27,987 - bot - ERROR - Failed to send message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+2025-09-02 07:42:27,987 - scheduler - ERROR - Failed to send startup notification: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+2025-09-02 07:42:36,743 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 07:45:47,868 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 07:45:48,699 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 07:45:48,707 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 07:45:49,144 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 07:45:49,144 - __main__ - INFO - Bot connected successfully
+2025-09-02 07:45:49,145 - scheduler - INFO - Message scheduler started
+2025-09-02 07:45:49,307 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 07:45:49,308 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 07:45:49,308 - bot - INFO - Starting bot polling...
+2025-09-02 07:45:50,540 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 07:59:25,424 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 08:00:39,815 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 08:00:40,483 - models - INFO - Connected to database successfully
+2025-09-02 08:00:40,737 - models - INFO - Database tables created successfully
+2025-09-02 08:00:40,737 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 08:00:41,173 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 08:00:41,173 - __main__ - INFO - Bot connected successfully
+2025-09-02 08:00:41,174 - scheduler - INFO - Message scheduler started
+2025-09-02 08:00:41,363 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:00:41,364 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 08:00:41,364 - bot - INFO - Starting bot polling...
+2025-09-02 08:03:21,907 - models - ERROR - Failed to get last entry: SSL connection has been closed unexpectedly
+
+2025-09-02 08:03:21,907 - models - ERROR - Failed to get total count: connection already closed
+2025-09-02 08:03:21,907 - models - ERROR - Failed to get last entry: connection already closed
+2025-09-02 08:03:34,736 - models - ERROR - Failed to get last entry: connection already closed
+2025-09-02 08:03:34,736 - models - ERROR - Failed to get total count: connection already closed
+2025-09-02 08:03:34,736 - models - ERROR - Failed to get last entry: connection already closed
+2025-09-02 08:04:03,576 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:06:54,134 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 08:06:55,441 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 08:06:56,093 - models - INFO - Connected to database successfully
+2025-09-02 08:06:56,275 - models - INFO - Database tables created successfully
+2025-09-02 08:06:56,276 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 08:06:56,735 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 08:06:56,736 - __main__ - INFO - Bot connected successfully
+2025-09-02 08:06:56,737 - scheduler - INFO - Message scheduler started
+2025-09-02 08:06:56,901 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:06:56,902 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 08:06:56,902 - bot - INFO - Starting bot polling...
+2025-09-02 08:10:05,148 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 08:10:06,121 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 08:10:06,776 - models - INFO - Connected to database successfully
+2025-09-02 08:10:06,989 - models - INFO - Database tables created successfully
+2025-09-02 08:10:06,990 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 08:10:07,426 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 08:10:07,426 - __main__ - INFO - Bot connected successfully
+2025-09-02 08:10:07,426 - scheduler - INFO - Message scheduler started
+2025-09-02 08:10:07,598 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:10:07,598 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 08:10:07,598 - bot - INFO - Starting bot polling...
+2025-09-02 08:10:39,582 - bot - INFO - Added main.py to zip
+2025-09-02 08:10:39,583 - bot - INFO - Added bot.py to zip
+2025-09-02 08:10:39,583 - bot - INFO - Added models.py to zip
+2025-09-02 08:10:39,583 - bot - INFO - Added config.py to zip
+2025-09-02 08:10:39,584 - bot - INFO - Added scheduler.py to zip
+2025-09-02 08:10:39,584 - bot - INFO - Added cli.py to zip
+2025-09-02 08:10:39,584 - bot - INFO - Added messages.json to zip
+2025-09-02 08:10:39,585 - bot - INFO - Added config.ini to zip
+2025-09-02 08:10:39,585 - bot - INFO - Added pyproject.toml to zip
+2025-09-02 08:10:39,588 - bot - INFO - Added uv.lock to zip
+2025-09-02 08:10:39,588 - bot - INFO - Added .replit to zip
+2025-09-02 08:10:39,589 - bot - INFO - Added replit.md to zip
+2025-09-02 08:10:39,589 - bot - INFO - Added README.md to zip
+2025-09-02 08:10:39,589 - bot - INFO - Added optional file sent_messages.log to zip
+2025-09-02 08:10:39,589 - bot - INFO - Added optional file telegram_bot.log to zip
+2025-09-02 08:10:39,590 - bot - INFO - Created zip file: /tmp/habit_tracker_bot_20250902_081039.zip
+2025-09-02 08:10:39,941 - bot - INFO - Sent program zip to user 7909662095
+2025-09-02 08:19:11,963 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 08:19:12,943 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 08:19:13,609 - models - INFO - Connected to database successfully
+2025-09-02 08:19:13,790 - models - INFO - Database tables created successfully
+2025-09-02 08:19:13,791 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 08:19:14,236 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 08:19:14,237 - __main__ - INFO - Bot connected successfully
+2025-09-02 08:19:14,238 - scheduler - INFO - Message scheduler started
+2025-09-02 08:19:14,496 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:19:14,496 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 08:19:14,497 - bot - INFO - Starting bot polling...
+2025-09-02 08:25:02,546 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 08:25:03,821 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 08:25:04,484 - models - INFO - Connected to database successfully
+2025-09-02 08:25:04,702 - models - INFO - Database tables created successfully
+2025-09-02 08:25:04,702 - language_manager - INFO - Language files loaded successfully
+2025-09-02 08:25:04,703 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 08:25:05,143 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 08:25:05,144 - __main__ - INFO - Bot connected successfully
+2025-09-02 08:25:05,144 - scheduler - INFO - Message scheduler started
+2025-09-02 08:25:05,325 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:25:05,326 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 08:25:05,326 - bot - INFO - Starting bot polling...
+2025-09-02 08:27:21,941 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 08:27:23,095 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 08:27:25,751 - models - INFO - Connected to database successfully
+2025-09-02 08:27:25,941 - models - INFO - Database tables created successfully
+2025-09-02 08:27:25,942 - language_manager - INFO - Language files loaded successfully
+2025-09-02 08:27:25,943 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 08:27:26,389 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 08:27:26,389 - __main__ - INFO - Bot connected successfully
+2025-09-02 08:27:26,390 - scheduler - INFO - Message scheduler started
+2025-09-02 08:27:26,557 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:27:26,558 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 08:27:26,558 - bot - INFO - Starting bot polling...
+2025-09-02 08:30:18,968 - models - ERROR - Failed to get user language: SSL connection has been closed unexpectedly
+
+2025-09-02 08:30:24,253 - models - ERROR - Failed to get user language: connection already closed
+2025-09-02 08:30:24,429 - bot - INFO - Added main.py to zip
+2025-09-02 08:30:24,430 - bot - INFO - Added bot.py to zip
+2025-09-02 08:30:24,430 - bot - INFO - Added models.py to zip
+2025-09-02 08:30:24,430 - bot - INFO - Added config.py to zip
+2025-09-02 08:30:24,431 - bot - INFO - Added scheduler.py to zip
+2025-09-02 08:30:24,431 - bot - INFO - Added cli.py to zip
+2025-09-02 08:30:24,432 - bot - INFO - Added language_manager.py to zip
+2025-09-02 08:30:24,432 - bot - INFO - Added messages.json to zip
+2025-09-02 08:30:24,432 - bot - INFO - Added english.json to zip
+2025-09-02 08:30:24,433 - bot - INFO - Added arabic.json to zip
+2025-09-02 08:30:24,433 - bot - INFO - Added config.ini to zip
+2025-09-02 08:30:24,433 - bot - INFO - Added pyproject.toml to zip
+2025-09-02 08:30:24,434 - bot - INFO - Added uv.lock to zip
+2025-09-02 08:30:24,434 - bot - INFO - Added .replit to zip
+2025-09-02 08:30:24,435 - bot - INFO - Added replit.md to zip
+2025-09-02 08:30:24,435 - bot - INFO - Added README.md to zip
+2025-09-02 08:30:24,435 - bot - INFO - Added optional file sent_messages.log to zip
+2025-09-02 08:30:24,436 - bot - INFO - Added optional file telegram_bot.log to zip
+2025-09-02 08:30:24,436 - bot - INFO - Created zip file: /tmp/habit_tracker_bot_20250902_083024.zip
+2025-09-02 08:30:24,766 - bot - INFO - Sent program zip to user 7909662095
+2025-09-02 08:30:32,379 - models - ERROR - Failed to get user language: connection already closed
+2025-09-02 08:30:35,791 - models - ERROR - Failed to set user language: connection already closed
+2025-09-02 08:30:35,795 - TeleBot - ERROR - Infinity polling exception: connection already closed
+2025-09-02 08:30:35,796 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "/home/runner/workspace/models.py", line 179, in set_user_language
+    with self.connection.cursor() as cursor:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.InterfaceError: connection already closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 10134, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot.py", line 143, in handle_language_callback
+    self.habit_tracker.set_user_language(user_id, 'arabic')
+  File "/home/runner/workspace/models.py", line 198, in set_user_language
+    self.connection.rollback()
+psycopg2.InterfaceError: connection already closed
+
+2025-09-02 08:30:38,760 - models - ERROR - Failed to set user language: connection already closed
+2025-09-02 08:30:38,801 - TeleBot - ERROR - Infinity polling exception: connection already closed
+2025-09-02 08:30:38,803 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "/home/runner/workspace/models.py", line 179, in set_user_language
+    with self.connection.cursor() as cursor:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.InterfaceError: connection already closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 10134, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot.py", line 143, in handle_language_callback
+    self.habit_tracker.set_user_language(user_id, 'arabic')
+  File "/home/runner/workspace/models.py", line 198, in set_user_language
+    self.connection.rollback()
+psycopg2.InterfaceError: connection already closed
+
+2025-09-02 08:30:55,398 - models - ERROR - Failed to get last entry: connection already closed
+2025-09-02 08:30:55,398 - models - ERROR - Failed to get total count: connection already closed
+2025-09-02 08:30:55,398 - models - ERROR - Failed to get last entry: connection already closed
+2025-09-02 08:30:55,398 - models - ERROR - Failed to get user language: connection already closed
+2025-09-02 08:30:55,399 - models - ERROR - Failed to get user language: connection already closed
+2025-09-02 08:30:55,399 - models - ERROR - Failed to get user language: connection already closed
+2025-09-02 08:30:55,399 - models - ERROR - Failed to get user language: connection already closed
+2025-09-02 08:30:59,097 - models - ERROR - Failed to set user language: connection already closed
+2025-09-02 08:30:59,099 - TeleBot - ERROR - Infinity polling exception: connection already closed
+2025-09-02 08:30:59,100 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "/home/runner/workspace/models.py", line 179, in set_user_language
+    with self.connection.cursor() as cursor:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.InterfaceError: connection already closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 10134, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot.py", line 143, in handle_language_callback
+    self.habit_tracker.set_user_language(user_id, 'arabic')
+  File "/home/runner/workspace/models.py", line 198, in set_user_language
+    self.connection.rollback()
+psycopg2.InterfaceError: connection already closed
+
+2025-09-02 08:30:59,936 - models - ERROR - Failed to set user language: connection already closed
+2025-09-02 08:31:02,101 - TeleBot - ERROR - Infinity polling exception: connection already closed
+2025-09-02 08:31:02,102 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "/home/runner/workspace/models.py", line 179, in set_user_language
+    with self.connection.cursor() as cursor:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.InterfaceError: connection already closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 10134, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot.py", line 143, in handle_language_callback
+    self.habit_tracker.set_user_language(user_id, 'arabic')
+  File "/home/runner/workspace/models.py", line 198, in set_user_language
+    self.connection.rollback()
+psycopg2.InterfaceError: connection already closed
+
+2025-09-02 08:31:02,540 - models - ERROR - Failed to set user language: connection already closed
+2025-09-02 08:31:02,540 - models - ERROR - Failed to set user language: connection already closed
+2025-09-02 08:31:02,542 - models - ERROR - Failed to set user language: connection already closed
+2025-09-02 08:31:05,103 - TeleBot - ERROR - Infinity polling exception: connection already closed
+2025-09-02 08:31:05,106 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "/home/runner/workspace/models.py", line 179, in set_user_language
+    with self.connection.cursor() as cursor:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.InterfaceError: connection already closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 10134, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot.py", line 143, in handle_language_callback
+    self.habit_tracker.set_user_language(user_id, 'arabic')
+  File "/home/runner/workspace/models.py", line 198, in set_user_language
+    self.connection.rollback()
+psycopg2.InterfaceError: connection already closed
+
+2025-09-02 08:31:05,540 - models - ERROR - Failed to set user language: connection already closed
+2025-09-02 08:31:08,107 - TeleBot - ERROR - Infinity polling exception: connection already closed
+2025-09-02 08:31:08,108 - TeleBot - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "/home/runner/workspace/models.py", line 179, in set_user_language
+    with self.connection.cursor() as cursor:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.InterfaceError: connection already closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1110, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1198, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1273, in __threaded_polling
+    raise e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/util.py", line 97, in run
+    task(*args, **kwargs)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telebot/__init__.py", line 10134, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot.py", line 143, in handle_language_callback
+    self.habit_tracker.set_user_language(user_id, 'arabic')
+  File "/home/runner/workspace/models.py", line 198, in set_user_language
+    self.connection.rollback()
+psycopg2.InterfaceError: connection already closed
+
+2025-09-02 08:33:53,771 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 08:33:54,798 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 08:33:55,475 - models - INFO - Connected to database successfully
+2025-09-02 08:33:55,662 - models - INFO - Database tables created successfully
+2025-09-02 08:33:55,662 - language_manager - INFO - Language files loaded successfully
+2025-09-02 08:33:55,663 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 08:33:56,099 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 08:33:56,099 - __main__ - INFO - Bot connected successfully
+2025-09-02 08:33:56,105 - scheduler - INFO - Message scheduler started
+2025-09-02 08:33:56,294 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:33:56,295 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 08:33:56,295 - bot - INFO - Starting bot polling...
+2025-09-02 08:34:33,238 - models - INFO - Set language for user 7909662095 to english
+2025-09-02 08:34:35,874 - models - INFO - Set language for user 7909662095 to arabic
+2025-09-02 08:36:09,175 - models - INFO - Added habit entry for user 7909662095
+2025-09-02 08:36:40,530 - bot - INFO - Added main.py to zip
+2025-09-02 08:36:40,531 - bot - INFO - Added bot.py to zip
+2025-09-02 08:36:40,531 - bot - INFO - Added models.py to zip
+2025-09-02 08:36:40,532 - bot - INFO - Added config.py to zip
+2025-09-02 08:36:40,532 - bot - INFO - Added scheduler.py to zip
+2025-09-02 08:36:40,533 - bot - INFO - Added cli.py to zip
+2025-09-02 08:36:40,533 - bot - INFO - Added language_manager.py to zip
+2025-09-02 08:36:40,533 - bot - INFO - Added messages.json to zip
+2025-09-02 08:36:40,534 - bot - INFO - Added english.json to zip
+2025-09-02 08:36:40,534 - bot - INFO - Added arabic.json to zip
+2025-09-02 08:36:40,534 - bot - INFO - Added config.ini to zip
+2025-09-02 08:36:40,535 - bot - INFO - Added pyproject.toml to zip
+2025-09-02 08:36:40,536 - bot - INFO - Added uv.lock to zip
+2025-09-02 08:36:40,536 - bot - INFO - Added .replit to zip
+2025-09-02 08:36:40,536 - bot - INFO - Added replit.md to zip
+2025-09-02 08:36:40,536 - bot - INFO - Added README.md to zip
+2025-09-02 08:36:40,537 - bot - INFO - Added optional file sent_messages.log to zip
+2025-09-02 08:36:40,537 - bot - INFO - Added optional file telegram_bot.log to zip
+2025-09-02 08:36:40,538 - bot - INFO - Created zip file: /tmp/habit_tracker_bot_20250902_083640.zip
+2025-09-02 08:36:40,997 - bot - INFO - Sent program zip to user 7909662095
+2025-09-02 08:41:02,303 - root - INFO - Received shutdown signal. Stopping bot...
+2025-09-02 08:41:03,304 - __main__ - INFO - Starting Telegram Daily Message Bot
+2025-09-02 08:41:03,678 - models - INFO - Connected to database successfully
+2025-09-02 08:41:03,849 - models - INFO - Database tables created successfully
+2025-09-02 08:41:03,850 - language_manager - INFO - Language files loaded successfully
+2025-09-02 08:41:03,851 - scheduler - INFO - Daily message scheduled for 09:00 (UTC)
+2025-09-02 08:41:04,286 - bot - INFO - Bot connected: @Instareelssharebot
+2025-09-02 08:41:04,286 - __main__ - INFO - Bot connected successfully
+2025-09-02 08:41:04,286 - scheduler - INFO - Message scheduler started
+2025-09-02 08:41:04,463 - bot - INFO - Message sent successfully to chat 7909662095
+2025-09-02 08:41:04,464 - __main__ - INFO - Starting bot polling for incoming messages...
+2025-09-02 08:41:04,464 - bot - INFO - Starting bot polling...
+2025-09-02 08:41:49,743 - bot - INFO - Added essential file main.py to zip
+2025-09-02 08:41:49,744 - bot - INFO - Added essential file bot.py to zip
+2025-09-02 08:41:49,745 - bot - INFO - Added essential file models.py to zip
+2025-09-02 08:41:49,745 - bot - INFO - Added essential file config.py to zip
+2025-09-02 08:41:49,746 - bot - INFO - Added essential file scheduler.py to zip
+2025-09-02 08:41:49,746 - bot - INFO - Added essential file cli.py to zip
+2025-09-02 08:41:49,747 - bot - INFO - Added essential file language_manager.py to zip
+2025-09-02 08:41:49,747 - bot - INFO - Added essential file english.json to zip
+2025-09-02 08:41:49,748 - bot - INFO - Added essential file arabic.json to zip
+2025-09-02 08:41:49,748 - bot - INFO - Added essential file messages.json to zip
+2025-09-02 08:41:49,748 - bot - INFO - Added essential file config.ini to zip
+2025-09-02 08:41:49,748 - bot - INFO - Added deployment file pyproject.toml to zip
+2025-09-02 08:41:49,749 - bot - INFO - Added deployment file uv.lock to zip
+2025-09-02 08:41:49,750 - bot - INFO - Added deployment file .replit to zip
+2025-09-02 08:41:49,750 - bot - INFO - Added deployment file replit.md to zip
+2025-09-02 08:41:49,750 - bot - INFO - Added deployment file README.md to zip
+2025-09-02 08:41:49,751 - bot - INFO - Added optional file sent_messages.log to zip

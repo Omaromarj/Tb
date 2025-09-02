@@ -1,0 +1,8 @@
+# Habit Tracker Bot Dependencies
+# Install with: pip install -r requirements.txt
+
+pyTelegramBotAPI==4.29.0
+schedule==1.2.2
+pytz==2025.2
+psycopg2-binary==2.9.9
+configparser==7.2.0
